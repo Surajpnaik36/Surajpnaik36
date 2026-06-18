@@ -1,16 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Suraj 👋
 
-<!--
-**Surajpnaik36/Surajpnaik36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience in Java, Spring Boot, Microservices, Kafka, PostgreSQL, Docker, and Kubernetes.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Web Development
-- 🌱 I’m currently learning ...Web Development form Coursera
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on Backend Engineering & Distributed Systems
+🌱 Learning System Design, Cloud Technologies, and Advanced Java
+💡 Interested in High-Performance Systems and Scalable Architectures
+📫 Reach me at: surajpnaik36@gmail.com
